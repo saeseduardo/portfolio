@@ -25,7 +25,6 @@ const translations = {
     'about.p2':    'Especializado en diseño de microservicios, automatización de procesos, integración de servicios de terceros y despliegues en <strong>AWS</strong> mediante Docker y pipelines CI/CD.',
     'about.p3':    'Actualmente enfocado en la evolución hacia sistemas backend impulsados por <strong>Inteligencia Artificial</strong>: integraciones con LLMs, automatización inteligente, arquitecturas RAG y servicios AI-ready para aplicaciones modernas.',
     'about.p4':    'Experiencia trabajando de forma remota con equipos internacionales en proyectos <strong>FinTech</strong>, plataformas empresariales y sistemas de alta disponibilidad.',
-    'about.cv':    'Descargar CV',
 
     'skills.label':       '02. Skills',
     'skills.title':       'Tech Stack',
@@ -97,7 +96,6 @@ const translations = {
     'about.p2':    'Specialized in microservices design, process automation, third-party service integration and AWS deployments via Docker and CI/CD pipelines.',
     'about.p3':    'Currently focused on evolving towards <strong>AI-powered backend systems</strong>: LLM integrations, intelligent automation, RAG architectures and AI-ready services for modern applications.',
     'about.p4':    'Experience working remotely with international teams on <strong>FinTech</strong> projects, enterprise platforms and high-availability systems.',
-    'about.cv':    'Download CV',
 
     'skills.label':       '02. Skills',
     'skills.title':       'Tech Stack',
