@@ -55,6 +55,12 @@ const translations = {
     'proj.3.m2':    'gateway payments',
     'proj.3.m3':    'calidad de código',
 
+    'proj.4.title': 'AI Customer Service Platform',
+    'proj.4.desc':  'Plataforma que automatiza el soporte al cliente vía WhatsApp usando GPT-4o con arquitectura hexagonal (Ports & Adapters). Detecta clientes frustrados y escala automáticamente a agentes humanos generando tickets con resumen AI y prioridad por sentimiento. Dashboard de analytics con tasas de automatización y resolución. Reduce la carga de soporte hasta un 70%.',
+    'proj.4.m1':    'reducción de carga',
+    'proj.4.m2':    'escalación inteligente',
+    'proj.4.m3':    'arquitectura',
+
     'exp.label':    '04. Experiencia',
     'exp.title':    'Trayectoria',
     'exp.1.desc':   'Lideré el desarrollo de lógica backend para aplicaciones de alto rendimiento y servicios críticos. Diseñé APIs escalables orientadas a estabilidad, mantenibilidad y procesamiento eficiente de datos. Participé en arquitecturas distribuidas enfocadas en automatización de procesos y escalabilidad cloud-native.',
@@ -125,6 +131,12 @@ const translations = {
     'proj.3.m1':    'Docker services',
     'proj.3.m2':    'gateway payments',
     'proj.3.m3':    'code quality',
+
+    'proj.4.title': 'AI Customer Service Platform',
+    'proj.4.desc':  'Platform that automates WhatsApp customer support using GPT-4o with Hexagonal Architecture (Ports & Adapters). Detects frustrated customers and automatically escalates to human agents, generating AI-summarized tickets with sentiment-based priority. Analytics dashboard tracking automation and resolution rates. Reduces support workload by up to 70%.',
+    'proj.4.m1':    'workload reduction',
+    'proj.4.m2':    'smart escalation',
+    'proj.4.m3':    'architecture',
 
     'exp.label':    '04. Experience',
     'exp.title':    'Career Timeline',
