@@ -61,6 +61,12 @@ const translations = {
     'proj.4.m2':    'escalación inteligente',
     'proj.4.m3':    'arquitectura',
 
+    'proj.5.title': 'RAG Support System',
+    'proj.5.desc':  'Sistema de soporte técnico basado en RAG (Retrieval-Augmented Generation) con tres estrategias de chunking configurables (fixed, semantic, recursive) sobre documentación en Markdown/PDF. Incluye suite de evaluación RAGAS y benchmarks de latencia, costo y precisión de recuperación contra gemini-2.5-flash.',
+    'proj.5.m1':    'score de recuperación',
+    'proj.5.m2':    'latencia p50',
+    'proj.5.m3':    'estrategias de chunking',
+
     'exp.label':    '04. Experiencia',
     'exp.title':    'Trayectoria',
     'exp.1.desc':   'Lideré el desarrollo de lógica backend para aplicaciones de alto rendimiento y servicios críticos. Diseñé APIs escalables orientadas a estabilidad, mantenibilidad y procesamiento eficiente de datos. Participé en arquitecturas distribuidas enfocadas en automatización de procesos y escalabilidad cloud-native.',
@@ -137,6 +143,12 @@ const translations = {
     'proj.4.m1':    'workload reduction',
     'proj.4.m2':    'smart escalation',
     'proj.4.m3':    'architecture',
+
+    'proj.5.title': 'RAG Support System',
+    'proj.5.desc':  'RAG-based (Retrieval-Augmented Generation) technical support system with three configurable chunking strategies (fixed, semantic, recursive) over Markdown/PDF documentation. Includes a RAGAS evaluation suite and benchmarks for latency, cost and retrieval accuracy against gemini-2.5-flash.',
+    'proj.5.m1':    'retrieval score',
+    'proj.5.m2':    'p50 latency',
+    'proj.5.m3':    'chunking strategies',
 
     'exp.label':    '04. Experience',
     'exp.title':    'Career Timeline',

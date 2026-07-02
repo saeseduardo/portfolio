@@ -678,6 +678,18 @@ img, svg { display: block; }
   font-family: var(--mono);
 }
 
+/* Screenshot media */
+.media-placeholder.screenshot {
+  padding: 0;
+  background: #0d1117;
+}
+.media-placeholder.screenshot img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top;
+}
+
 /* Video placeholder */
 .video-media { background: #050810; }
 .video-wrapper { width: 100%; height: 100%; }
