@@ -61,11 +61,11 @@ const translations = {
     'proj.4.m2':    'escalación inteligente',
     'proj.4.m3':    'arquitectura',
 
-    'proj.5.title': 'Agenda AI Landing',
-    'proj.5.desc':  'Landing page de Agenda AI, una plataforma de agendamiento inteligente impulsada por IA. Diseño moderno orientado a conversión, con foco en presentar de forma clara la propuesta de valor del producto.',
-    'proj.5.m1':    'landing page',
-    'proj.5.m2':    'AI scheduling',
-    'proj.5.m3':    'conversión',
+    'proj.5.title': 'RAG Support System',
+    'proj.5.desc':  'Sistema de soporte técnico basado en RAG (Retrieval-Augmented Generation) con tres estrategias de chunking configurables (fixed, semantic, recursive) sobre documentación en Markdown/PDF. Incluye suite de evaluación RAGAS y benchmarks de latencia, costo y precisión de recuperación contra gemini-2.5-flash.',
+    'proj.5.m1':    'score de recuperación',
+    'proj.5.m2':    'latencia p50',
+    'proj.5.m3':    'estrategias de chunking',
 
     'exp.label':    '04. Experiencia',
     'exp.title':    'Trayectoria',
@@ -144,11 +144,11 @@ const translations = {
     'proj.4.m2':    'smart escalation',
     'proj.4.m3':    'architecture',
 
-    'proj.5.title': 'Agenda AI Landing',
-    'proj.5.desc':  'Landing page for Agenda AI, an AI-powered smart scheduling platform. Modern conversion-focused design that clearly communicates the product\'s value proposition.',
-    'proj.5.m1':    'landing page',
-    'proj.5.m2':    'AI scheduling',
-    'proj.5.m3':    'conversion',
+    'proj.5.title': 'RAG Support System',
+    'proj.5.desc':  'RAG-based (Retrieval-Augmented Generation) technical support system with three configurable chunking strategies (fixed, semantic, recursive) over Markdown/PDF documentation. Includes a RAGAS evaluation suite and benchmarks for latency, cost and retrieval accuracy against gemini-2.5-flash.',
+    'proj.5.m1':    'retrieval score',
+    'proj.5.m2':    'p50 latency',
+    'proj.5.m3':    'chunking strategies',
 
     'exp.label':    '04. Experience',
     'exp.title':    'Career Timeline',
