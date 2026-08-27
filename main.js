@@ -9,7 +9,7 @@ const translations = {
     'nav.hire':       'Contrátame',
 
     'hero.eyebrow': 'Hola, mundo',
-    'hero.title':   'Soy <span class="gradient-text">Eduardo Saes</span><br/>AI Backend Engineer',
+    'hero.title':   'Soy <span class="gradient-text">Eduardo Saes</span><br/>Backend Engineer',
     'hero.sub':     'Más de 7 años construyendo arquitecturas backend escalables,<br/>APIs de alto rendimiento y sistemas cloud-native con foco creciente en AI.',
     'hero.cta1':    'Ver Proyectos',
     'hero.cta2':    'Hablemos',
@@ -84,7 +84,7 @@ const translations = {
     'contact.desc':     'Estoy disponible para roles backend senior, proyectos de consultoría e integraciones AI. Respondo en menos de 24 horas.',
     'contact.location': 'Venezuela · Disponible para trabajo remoto global',
 
-    'footer.credit': '© 2026 Eduardo Argenis Saes Araujo · AI Backend Engineer',
+    'footer.credit': '© 2026 Eduardo Argenis Saes Araujo · Backend Engineer',
   },
   en: {
     'nav.about':      'About',
@@ -95,7 +95,7 @@ const translations = {
     'nav.hire':       'Hire me',
 
     'hero.eyebrow': 'Hello, world',
-    'hero.title':   'I\'m <span class="gradient-text">Eduardo Saes</span><br/>AI Backend Engineer',
+    'hero.title':   'I\'m <span class="gradient-text">Eduardo Saes</span><br/>Backend Engineer',
     'hero.sub':     '7+ years building scalable backend architectures,<br/>high-performance APIs and cloud-native systems with a growing AI focus.',
     'hero.cta1':    'View Projects',
     'hero.cta2':    'Let\'s Talk',
@@ -170,7 +170,7 @@ const translations = {
     'contact.desc':     'I\'m available for senior backend roles, consulting projects and AI integrations. I respond within 24 hours.',
     'contact.location': 'Venezuela · Available for global remote work',
 
-    'footer.credit': '© 2026 Eduardo Argenis Saes Araujo · AI Backend Engineer',
+    'footer.credit': '© 2026 Eduardo Argenis Saes Araujo · Backend Engineer',
   }
 };
 
